@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AssignmentMvp</string>
+    <string name="action_settings">Action settings</string>
+    <string name="search">Search</string>
+    <string name="check_in_history">Check In History</string>
+
+</resources>
